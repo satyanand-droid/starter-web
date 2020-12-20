@@ -118,3 +118,50 @@ Developers zone
 Widget for publishers
 DMCA
 OEM and device manufacturers
+
+
+Git exercises
+Home
+Exercises 23
+FAQ
+Cheatsheet
+Github
+Your e-mail address
+ 
+Exercise: Commit one file
+git start commit-one-file
+Instructions
+There are two files created in the root project directory - A.txt and B.txt.
+
+The goal is to commit only one of them.
+
+NOTE: Remember that you can submit your solutions with git verify command instead of git push.
+
+Hint
+You need to submit at least one wrong solution for this exercise to see a hint.
+
+master
+commit-one-file
+commit-one-file-staged
+ignore-them
+chase-branch
+merge-conflict
+save-your-work
+change-branch-history
+remove-ignored
+case-sensitive-filename
+fix-typo
+forge-date
+fix-old-typo
+commit-lost
+split-commit
+too-many-commits
+executable
+commit-parts
+pick-your-features
+rebase-complex
+invalid-order
+find-swearwords
+find-bug
+Made with  for git by Wojciech Frącz and Jacek Dajda at AGH University of Science and Technology
+
